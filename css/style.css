@@ -120,6 +120,20 @@ ul, ol {
   list-style: none;
 }
 
+
+.pcm li
+{
+margin-bottom:10px;
+margin-left:60px;
+font-size:18px;
+}
+
+.pcm li i
+{
+margin-right:10px;
+color:#dd0a37;
+
+}
 .main-btn {
   display: inline-block;
   padding: 14px 50px;
@@ -164,6 +178,13 @@ textarea.input {
   position: relative;
   padding: 90px 0px;
 }
+
+
+.section2 {
+  position: relative;
+  padding-top: 90px;
+}
+
 
 .section-bg {
   position: absolute;
